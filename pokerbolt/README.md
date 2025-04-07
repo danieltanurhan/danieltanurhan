@@ -2,7 +2,7 @@
 
 A sophisticated real-time multiplayer Texas Hold'em poker application that delivers an authentic poker experience through a modern tech stack.
 
-![PokerBolt](https://images.unsplash.com/photo-1606167668584-78701c57f90d?q=80&w=2400&auto=format&fit=crop)
+![PokerBolt](https://github.com/danieltanurhan/danieltanurhan/blob/main/pokerbolt/Screenshot%202025-04-07%20212820.png?raw=true)
 
 ## 📋 Project Overview
 
