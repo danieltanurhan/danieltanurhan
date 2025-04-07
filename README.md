@@ -1,9 +1,4 @@
 <div align="center">
-  <p align="start">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=4000&pause=1000&color=22D3EE&width=600&lines=Daniel+Can+Tanurhan;Daniel+The+Developer;DANCANDO" alt="Dynamic Header" />
-  </p>
-
-
   <div align="center">
     <a href="#"><img width="49%" src="https://github-readme-stats.vercel.app/api?username=danieltanurhan&show_icons=true&hide_border=true&theme=transparent" alt="GitHub Stats" /></a>
     <a href="#"><img width="49%" src="https://streak-stats.demolab.com?user=danieltanurhan&theme=blueberry&hide_border=true" alt="Streak Stats" /></a>
