@@ -12,7 +12,7 @@ Barta Logistics delivers comprehensive global logistics solutions with a focus o
 
 - **Next.js App Router Architecture** - Server components with client hydration for optimal performance
 - **Headless CMS Integration** - Sanity CMS with GROQ queries and custom studio implementation
-- **Firebase Authentication** - Secure user management with role-based access control
+- **Firebase Authentication** - Secure Admin Panel with role-based access control
 - **Dynamic PDF Generation** - Custom document creation with PDF-lib and fontkit
 - **Responsive Design System** - Tailwind CSS with custom design tokens and component library
 - **API Integration Layer** - RESTful endpoints with proper error handling and data validation
